@@ -31,8 +31,8 @@ My_Radar is a 2D air traffic simulation game that visualizes air traffic control
 1. **Clone and Navigate:**
 
     ```bash
-    git clone git@github.com:EpitechPromo2028/B-MUL-100-PAR-1-1-myradar-aloys.mangin.git
-    cd B-MUL-100-PAR-1-1-myradar-aloys.mangin
+    git clone git@github.com:Haloys/my_hunter.git
+    cd my_hunter
     ```
 
 2. **Compile:**
