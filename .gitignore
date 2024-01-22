@@ -1,0 +1,9 @@
+my_radar
+
+.gitignore~
+
+libmy.a
+*.o
+
+*.gcda
+*.gcno
